@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'YEENING WORKSPACES',
+    description: 'ARE YA YEENING SON?',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://yeenbean.github.com/yeening-kasm-repository/',
+    contactUrl: 'https://github.com/yeenbean/yeening-kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/yeening-kasm-registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
